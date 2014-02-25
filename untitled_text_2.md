@@ -14,3 +14,12 @@ Like, seriously, a _LOT_ of text**
 **plus important** ou __également important__
 
 ####  Ordered Lists
+
+#### Tables
+
+A simple table looks like this:
+
+First Header | Second Header | Third Header
+------------ | ------------- | ------------
+Content Cell | Content Cell  | Content Cell
+Content Cell | Content Cell  | Content Cell
