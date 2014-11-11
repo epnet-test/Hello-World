@@ -9,4 +9,4 @@ DOMAIN=epfl.ch
 ONBOOT=yes
 BOOTPROTO=none
 USERCTL=no
-BONDING_OPTS="mode=802.3ad lacp_rate=slow miimon=100"
+BONDING_OPTS="mode=802.3ad lacp_rate=slow miimon=100 xmit_hash_policy=2"
